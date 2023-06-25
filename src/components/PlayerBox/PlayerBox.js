@@ -45,6 +45,7 @@ const PlayerBox = ({
     if (reset) {
       setPick({});
       setComputerPick({});
+      handleReset(false);
     }
   }, [reset]);
 

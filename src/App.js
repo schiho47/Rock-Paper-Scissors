@@ -11,6 +11,10 @@ function App() {
   const [reset, setReset] = useState(false);
 
   const handleGo = () => {
+    if (pickGroup.user === "") {
+      alert("Please choose first");
+      return;
+    }
     setGo(true);
     handleCount();
   };
