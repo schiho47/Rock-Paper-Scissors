@@ -1,0 +1,5 @@
+rock:<a href="https://www.flaticon.com/free-icons/fist" title="fist icons">Fist icons created by Cuputo - Flaticon</a>
+
+paper:<a href="https://www.flaticon.com/free-icons/hand" title="hand icons">Hand icons created by Vitaly Gorbachev - Flaticon</a>
+
+scissors:<a href="https://www.flaticon.com/free-icons/scissor" title="scissor icons">Scissor icons created by Alfian Dwi Hartanto - Flaticon</a>
